@@ -1,4 +1,5 @@
 #!/bin/bash
+#Script mejorado con validacion de directorios
 #1.Definimos el argumento
 Carpeta=$1
 # si no se da argumento da error
